@@ -229,7 +229,7 @@ export default function CountryDetails() {
             aria-label="Back to Countries"
           >
             <ArrowLeft className="h-6 w-6" />
-            Back to Countries
+            Back To Countries
           </button>
           <div className="flex items-center gap-2">
             <div className="relative">
