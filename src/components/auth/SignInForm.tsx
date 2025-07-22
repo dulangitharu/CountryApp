@@ -67,7 +67,7 @@ export default function SignInForm() {
                 onChange={(e) => setRememberMe(e.target.checked)}
                 className="h-4 w-4 border-black/30 data-[state=checked]:bg-blue-500 rounded"
               />
-              <label className="ml-2 text-black font-medium">Remember me</label>
+              <label className="ml-2 text-black font-medium">Remember Me</label>
             </div>
             <a href="/forgot-password" className="text-black hover:text-black/80 p-0 h-auto">
               Forgot Password?
