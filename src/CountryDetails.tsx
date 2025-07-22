@@ -198,7 +198,7 @@ export default function CountryDetails() {
           className={`mt-4 flex items-center gap-2 mx-auto text-${themeColor}-600 hover:text-${themeColor}-700 transition-colors duration-200`}
         >
           <ArrowLeft className="h-6 w-6" />
-          Back to Countries
+          Back To Countries
         </button>
       </div>
     );
@@ -213,7 +213,7 @@ export default function CountryDetails() {
           className={`mt-4 flex items-center gap-2 mx-auto text-${themeColor}-600 hover:text-${themeColor}-700 transition-colors duration-200`}
         >
           <ArrowLeft className="h-6 w-6" />
-          Back to Countries
+          Back To Countries
         </button>
       </div>
     );
