@@ -82,7 +82,7 @@ export default function SignInForm() {
           <p className="mt-6 text-center text-white">
             Don't have an account?{' '}
             <a href="#" onClick={handleRegisterClick} className="hover:text-white/90">
-              Register here
+              Register Here
             </a>
           </p>
         </form>
