@@ -79,7 +79,7 @@ export default function Countries() {
         const response = await fetch('https://restcountries.com/v3.1/all?fields=name,flags,region,languages,population,capital');
         const data = await response.json();
         setCountries(data);
-        // Apply filters after countries are fetched
+       
         let results = data;
 
         if (searchTerm) {
