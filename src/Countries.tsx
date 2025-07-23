@@ -253,7 +253,7 @@ export default function Countries() {
                     : `text-${themeColor}-800 bg-${themeColor}-100 hover:bg-${themeColor}-200`
                 }`}
               >
-                Log In to Favorite Countries
+                Log In To Favorite Countries
               </button>
               <button
                 onClick={() => navigate('/signup')}
